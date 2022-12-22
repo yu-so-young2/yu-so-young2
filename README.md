@@ -11,11 +11,17 @@ I am BackEnd Software Developer, **Soyoung Yu**.
 - 🌱 저는 현재 백엔드, 블록체인, 도커를 공부하고 있습니다.
 
 <div align="center">
-<br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,github,gitlab,eclipse,js,html,css,c,cpp,vue&perline=6"/>            
-<br/>
-
-<!--  commit log 3d로 보여주기  -->
-  <!-- <img width="700px" src="./profile-3d-contrib/profile-season-animate.svg"> -->
-
+<!-- <br/> -->
+<!--     <img src="https://skillicons.dev/icons?i=java,spring,mysql,github,gitlab,eclipse,js,html,css,c,cpp,vue&perline=6"/> -->
+  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,c,cpp&perline=6"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,vue,github,gitlab&perline=6"/> 
+  
 </div>
+
+<!-- commit log 3d로 보여주기 -->
+<!-- <img width="700px" src="./profile-3d-contrib/profile-season-animate.svg"> -->
+
+
